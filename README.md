@@ -45,7 +45,7 @@ FORMAT OF INPUT FILE
 * Only orthogonal windowing has been implemented, i.e., the line segments have to be either vertical or horizontal.
 
 
-OUTPUT:
+OUTPUT:  
 * The query rectangle's endpoints are printed first, followed by the line segments which intersect the query rectangle.
 * The line segments are specified using their end points.
 * No output is given in case the area of the query rectangle is 0.
